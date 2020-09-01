@@ -1,0 +1,19 @@
+{
+  "name": "no-shadow-eslint-enum-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenadia/no-shadow-eslint-enum-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenadia/no-shadow-eslint-enum-test/issues"
+  },
+  "homepage": "https://github.com/Kenadia/no-shadow-eslint-enum-test#readme"
+}
